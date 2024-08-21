@@ -1,4 +1,4 @@
-**PizzaMania**
+*PizzaMania*
 
 **Introduction**
 
@@ -60,11 +60,3 @@ Total price: $250.0
 
 ---
 
-
-**License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This content can be easily pasted into a Word document, formatted with headings, bullet points, and any other necessary styling.
